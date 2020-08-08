@@ -1,0 +1,39 @@
+secondary-stylep.css
+
+.hero {
+  background-image: url(../assets/images/hero-bg.jpg);
+  background-size: cover;
+  background-position: bottom;
+  position: relative;
+  height: auto;
+  text-align: center;
+  margin-bottom: 40px;
+}
+.page-title {color: #fce138;}
+.h2 {
+     display: inline-block
+     border-bottom: 4px, solid, #fce138;
+     padding: opx, 80px, 15px, 80px;
+     font-weight: normal;
+     font-size: 42px;
+     font-style: italic;
+}
+.secondary-content{
+    width: 80%;
+    margin: 20px;
+    color: #024e76
+
+}     
+.h3 {
+    font-size: 25px
+    margin: 20px, 0px, 20px, 0px;
+}
+,p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin; 20px, 0ox, 20px, 0px;
+}
+.li {
+    color: #39a6b2;
+    margin: 10px, 0px, 10px, 0px;
+}
